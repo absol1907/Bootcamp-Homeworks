@@ -29,7 +29,7 @@ function getGroup(n) {
         if (student.group == n) group.push(student.name) 
     });
 
-    console.log("Members of "+ n + " is " + group)
+    console.log("Members of "+ n + " are " + group)
 }
 
 function getAsistants (n) {
