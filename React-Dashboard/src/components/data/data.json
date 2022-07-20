@@ -1,0 +1,83 @@
+[
+    {
+        "id": 0,
+        "projectName": "React Dashboard",
+        "status": "Active",
+        "startDate": "27.06.2022",
+        "task": 10,
+        "members": 6,
+        "progress": "%95"
+    },
+    {
+        "id": 1,
+        "projectName": "Shopping Platform",
+        "status": "On Hold",
+        "startDate": "10.05.2021",
+        "task": 22,
+        "members": 14,
+        "progress": "%65"
+    },
+    {
+        "id": 2,
+        "projectName": "Portfolio Website",
+        "status": "Active",
+        "startDate": "10.06.2022",
+        "task": 15,
+        "members": 1,
+        "progress": "%75"
+    },
+    {
+        "id": 3,
+        "projectName": "Search Engine",
+        "status": "Active",
+        "startDate": "05.05.2022",
+        "task": 35,
+        "members": 8,
+        "progress": "%80"
+    },
+    {
+        "id": 4,
+        "projectName": "Blog",
+        "status": "Finished",
+        "startDate": "02.02.2022",
+        "task": 5,
+        "members": 2,
+        "progress": "%100"
+    },
+    {
+        "id": 5,
+        "projectName": "Cloud Gaming",
+        "status": "Abandoned",
+        "startDate": "01.01.2022",
+        "task": 355,
+        "members": 107,
+        "progress": "%35"
+    },
+    {
+        "id": 6,
+        "projectName": "Social Media",
+        "status": "On Hold",
+        "startDate": "12.12.2021",
+        "task": 32,
+        "members": 21,
+        "progress": "%42"
+    },
+    {
+        "id": 7,
+        "projectName": "Streaming Platform",
+        "status": "Abandoned",
+        "startDate": "23.10.2021",
+        "task": 22,
+        "members": 10,
+        "progress": "%61"
+    },
+    {
+        "id": 8,
+        "projectName": "Charity Platform",
+        "status": "Active",
+        "startDate": "01.07.2022",
+        "task": 15,
+        "members": 7,
+        "progress": "%10"
+    }
+]

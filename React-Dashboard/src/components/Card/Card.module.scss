@@ -1,0 +1,77 @@
+.card {
+  margin: 20px;
+  padding: 20px;
+
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+
+  width: 550px;
+  height: 300px;
+
+  background-color: #FFFFFF;
+  border: 1px solid #E5E5E5;
+  border-radius:8px;
+
+  &__name {
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 35px;
+    color:#3C557A;
+  }
+
+  &__status {
+    font-size: 20px;
+    font-family: "Roboto";
+    font-weight: 900;
+    color: black;
+    line-height: 30px;
+  }
+
+  &__date {
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 32px;
+
+    color: #717986;
+  }
+  &__task {
+    position: relative;
+    left: 55%;
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 20px;
+
+    color: #717986;
+  }
+  &__members {
+    position: relative;
+    left: 76%;
+    bottom: 7.60%;
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 25px;
+    line-height: 27px;
+
+    color: #717986;
+  }
+  &__percentage {
+    position: relative;
+    bottom: -30%;
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 32px;
+
+    color: #717986;
+  }
+}
