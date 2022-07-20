@@ -1,0 +1,22 @@
+.button {
+  display: block;
+  margin-right: 20px;
+  padding: 20px 40px;
+
+  border: 0;
+  border-radius: 6px;
+
+  font-family: Arial;
+  font-size: 24px;
+  font-weight: 600;
+}
+
+.button.blue {
+  background-color: rgb(53, 87, 199);
+}
+.button.orange {
+  background-color: rgb(201, 108, 33);
+}
+.button.pink {
+  background-color: rgb(218, 78, 164);
+}
